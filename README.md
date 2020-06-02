@@ -1,1 +1,1 @@
-"# All DQ Network Implementations"  
+# All DQ Network Implementations
