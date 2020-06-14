@@ -7,6 +7,7 @@ from keras.models import load_model
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
+from io import StringIO, BytesIO
 
 import os
 import sys
@@ -146,7 +147,7 @@ class DQNAgent:
     if iter % NO_OF_ITER:
       summary_list =[]
       for in range(3):
-        s = StringIO()
+        s = BytesIO()
         plt.imsave(s, np.mean(self.input_batch[k],axis=-1),format='png')
         img_sum = tf.Summary.Image(
             encoded_image_string=s.getvalue(),
