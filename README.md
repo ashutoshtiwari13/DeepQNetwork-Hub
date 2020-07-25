@@ -10,6 +10,9 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 
 > Use "replay" of already seen experiences (Experience Replay) , often referred to as the replay buffer or a replay memory and holds experience samples for several steps, allowing the sampling of mini-batches from a broad-set of past experiences.
 
+  <p align="center">DQN with Replay memory <p align="center">
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DQN.png" width="650px" height="400px"/></p>
+
 ## Papers associated with Novel-Algorithms
 ### Playing Atari with Deep Reinforcement Learning [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
 """TODO"""
