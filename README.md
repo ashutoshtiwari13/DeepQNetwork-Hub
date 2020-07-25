@@ -13,19 +13,21 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 ## Papers associated with Novel-Algorithms
 ### Playing Atari with Deep Reinforcement Learning [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
 """TODO"""
-### Deep Reinforcement Learning with Double Q-learning [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
+### Deep Reinforcement Learning with Double Q-learning [[Paper](https://arxiv.org/abs/1509.06461)]
 """TODO"""
-### Dueling Network Architectures for Deep Reinforcement Learning [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
+### Dueling Network Architectures for Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1511.06581)]
 """TODO"""
-### Prioritized Experience Replay [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
+### Prioritized Experience Replay [[Paper](https://arxiv.org/abs/1511.05952)]
 """TODO"""
-### Noisy Networks for Exploration [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
+### Noisy Networks for Exploration [[Paper](https://arxiv.org/abs/1706.10295)]
 """TODO"""
-### Rainbow: Combining Improvements in Deep Reinforcement Learning [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
+### A Distributional Perspective on Reinforcement Learning [[Paper](https://arxiv.org/pdf/1707.06887.pdf)]
 """TODO"""
-### Distributional Reinforcement Learning with Quantile Regression[[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
+### Rainbow: Combining Improvements in Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1710.02298)]
 """TODO"""
-### Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
+### Distributional Reinforcement Learning with Quantile Regression[[Paper](https://arxiv.org/pdf/1710.10044.pdf)]
+"""TODO"""
+### Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[Paper](https://arxiv.org/abs/1604.06057)]
 """TODO"""
 
 
