@@ -38,9 +38,11 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 ### A Distributional Perspective on Reinforcement Learning (Categorical DQN) [[Paper](https://arxiv.org/pdf/1707.06887.pdf)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Categorical.png" width="550px" height="350px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Categorical2.png" width="450px" height="350px"/></p>
+
 ### Rainbow: Combining Improvements in Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1710.02298)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Rainbow1.png" width="550px" height="350px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Rainbow_compare.png" width="450px" height="300px"/></p>
+
 ### Distributional Reinforcement Learning with Quantile Regression[[Paper](https://arxiv.org/pdf/1710.10044.pdf)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/QR1.png" width="550px" height="350px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/QR2.png" width="450px" height="350px"/></p>
