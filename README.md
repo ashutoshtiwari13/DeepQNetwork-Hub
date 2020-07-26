@@ -16,7 +16,7 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 ## Papers associated with Novel-Algorithms
 ### Playing Atari with Deep Reinforcement Learning [[Paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DQN_image1.png" width="650px" height="200px"/></p>
-<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DQN_algo.png" width="650px" height="200px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DQN_algo.png" width="650px" height="300px"/></p>
 
 ### Deep Reinforcement Learning with Double Q-learning [[Paper](https://arxiv.org/abs/1509.06461)]
 """TODO"""
