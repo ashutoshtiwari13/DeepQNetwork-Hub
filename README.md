@@ -23,9 +23,9 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DDQN2.png" width="450px" height="100px"/></p>
 
 ### Dueling Network Architectures for Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1511.06581)]
-<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling1.png" width="450px" height="100px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling1.png" width="450px" height="350px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling2.png" width="450px" height="100px"/></p>
-<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling3.png" width="450px" height="100px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling3.png" width="450px" height="300px"/></p>
 
 ### Prioritized Experience Replay [[Paper](https://arxiv.org/abs/1511.05952)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/PER1.png" width="550px" height="400px"/></p>
