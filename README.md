@@ -25,10 +25,12 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 ### Dueling Network Architectures for Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1511.06581)]
 
 ### Prioritized Experience Replay [[Paper](https://arxiv.org/abs/1511.05952)]
-<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/PER1.png" width="450px" height="100px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/PER1.png" width="550px" height="400px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/PER_compare.png" width="450px" height="100px"/></p>
 
 ### Noisy Networks for Exploration [[Paper](https://arxiv.org/abs/1706.10295)]
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Noisy_loss.png" width="550px" height="200px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Noisy_compare.png" width="450px" height="150px"/></p>
 
 ### A Distributional Perspective on Reinforcement Learning [[Paper](https://arxiv.org/pdf/1707.06887.pdf)]
 """TODO"""
