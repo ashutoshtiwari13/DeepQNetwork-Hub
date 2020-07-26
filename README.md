@@ -19,13 +19,18 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DQN_algo.png" width="650px" height="300px"/></p>
 
 ### Deep Reinforcement Learning with Double Q-learning [[Paper](https://arxiv.org/abs/1509.06461)]
-"""TODO"""
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DDQN1.png" width="450px" height="100px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DDQN2.png" width="450px" height="100px"/></p>
+
 ### Dueling Network Architectures for Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1511.06581)]
-"""TODO"""
+<img align="left" width="300" height="200" src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling1.png">
+<img align="right" width="300" height="100" src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling2.png">
+<img align="right" width="300" height="100" src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling3.png">
+
 ### Prioritized Experience Replay [[Paper](https://arxiv.org/abs/1511.05952)]
-"""TODO"""
+
 ### Noisy Networks for Exploration [[Paper](https://arxiv.org/abs/1706.10295)]
-"""TODO"""
+
 ### A Distributional Perspective on Reinforcement Learning [[Paper](https://arxiv.org/pdf/1707.06887.pdf)]
 """TODO"""
 ### Rainbow: Combining Improvements in Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1710.02298)]
