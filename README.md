@@ -26,6 +26,7 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling1.png" width="450px" height="100px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling2.png" width="450px" height="100px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling3.png" width="450px" height="100px"/></p>
+
 ### Prioritized Experience Replay [[Paper](https://arxiv.org/abs/1511.05952)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/PER1.png" width="550px" height="400px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/PER_compare.png" width="450px" height="100px"/></p>
@@ -43,6 +44,7 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 ### Distributional Reinforcement Learning with Quantile Regression[[Paper](https://arxiv.org/pdf/1710.10044.pdf)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/QR1.png" width="550px" height="350px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/QR2.png" width="450px" height="350px"/></p>
+
 ### Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[Paper](https://arxiv.org/abs/1604.06057)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/HR1.png" width="600px" height="400px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/HR2.png" width="450px" height="150px"/></p>
