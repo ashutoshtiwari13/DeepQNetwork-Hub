@@ -23,7 +23,9 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/DDQN2.png" width="450px" height="100px"/></p>
 
 ### Dueling Network Architectures for Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1511.06581)]
-
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling1.png" width="450px" height="100px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling2.png" width="450px" height="100px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Dueling3.png" width="450px" height="100px"/></p>
 ### Prioritized Experience Replay [[Paper](https://arxiv.org/abs/1511.05952)]
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/PER1.png" width="550px" height="400px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/PER_compare.png" width="450px" height="100px"/></p>
@@ -32,13 +34,17 @@ It's obvious that we needed to make the neccessary tweaks in the algorithms to o
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Noisy_loss.png" width="550px" height="200px"/></p>
 <p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Noisy_compare.png" width="450px" height="150px"/></p>
 
-### A Distributional Perspective on Reinforcement Learning [[Paper](https://arxiv.org/pdf/1707.06887.pdf)]
-"""TODO"""
+### A Distributional Perspective on Reinforcement Learning (Categorical DQN) [[Paper](https://arxiv.org/pdf/1707.06887.pdf)]
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Categorical.png" width="550px" height="350px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Categorical2.png" width="450px" height="350px"/></p>
 ### Rainbow: Combining Improvements in Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/1710.02298)]
-"""TODO"""
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Rainbow1.png" width="550px" height="350px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/Rainbow_compare.png" width="450px" height="300px"/></p>
 ### Distributional Reinforcement Learning with Quantile Regression[[Paper](https://arxiv.org/pdf/1710.10044.pdf)]
-"""TODO"""
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/QR1.png" width="550px" height="350px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/QR2.png" width="450px" height="350px"/></p>
 ### Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation [[Paper](https://arxiv.org/abs/1604.06057)]
-"""TODO"""
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/HR1.png" width="600px" height="400px"/></p>
+<p align="center"><img src="https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/images/HR2.png" width="450px" height="150px"/></p>
 
 
